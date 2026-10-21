@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">治安法学习助手</string>
+    <string name="title_law_detail">条文详情</string>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1565C0</color>
+    <color name="colorPrimaryDark">#0D47A1</color>
+    <color name="colorAccent">#F9A825</color>
+
+    <color name="optionNormal">#1976D2</color>
+    <color name="optionRight">#2E7D32</color>
+    <color name="optionWrong">#C62828</color>
+
+    <color name="itemHighlight">#E8F1FC</color>
+
+    <color name="badgeCase">#6A3FB5</color>
+    <color name="badgeQuizBg">#E3F0FF</color>
+    <color name="badgeCaseBg">#F3ECFF</color>
+    <color name="badgeKeyBg">#FDEAEA</color>
+</resources>
